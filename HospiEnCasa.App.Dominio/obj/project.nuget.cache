@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsVoO/t2bhC+knHjoiF2FJ5jEoG0PmyVPB0UKYW9EXX3iMgSB8H7TIshMgnSHZ4Og/Bo8ggurUACv73z0VAVFw==",
+  "success": true,
+  "projectFilePath": "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
